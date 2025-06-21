@@ -5,7 +5,7 @@ This project involves creating a comprehensive financial dashboard using Tableau
 
 
 
-![](./assets/industry comparision.png)
+![](./assets/Industry comparison.png)
 
 
 ## Description
