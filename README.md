@@ -1,12 +1,12 @@
 # Financial-Analysis-Tableau
-A Tableau dashboard to analyze financial trends in US based industries.
+A Tableau dashboard to analyze financial trends. 
 
 This project involves creating a comprehensive financial dashboard using Tableau. The dashboard provides insights into various financial metrics across different industries over the years. The main focus is on comparing key performance indicators (KPIs) such as growth, return on equity (ROE), gross margin, net margin, and other relevant metrics.
 
-![Video demo](./assets/financialdashboard.gif)
 
-![](./assets/financialdashboard1.png)
-![](./assets/financialdashboard2.png)
+
+![](./assets/industry comparision.png)
+
 
 ## Description
 
@@ -42,13 +42,3 @@ The dashboard is divided into several sections, each highlighting different aspe
 10. **PEG Ratio**: The price/earnings to growth ratio, which considers the current PE ratio and the expected growth rate.
 11. **ROE (Unadjusted)**: The return on equity for each industry, calculated as net income divided by shareholder's equity.
 
-## Files
-
-The project includes the following files:
-- Tableau workbook with the dashboard.
-- Data sources used for the analysis. Executed SQL queries for advanced data processing: data cleaning, wrangling, and merging tables to prepare 5-year financial data. Check [Processing.ipynb](Processing.ipynb). Final data is in [data_final/financialdata_fina.xlsx](./data_final/financialdata_final.xlsx). We collected data from https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html.
-- README file (this document).
-
-## Usage
-
-To use the dashboard, open the Tableau workbook in Tableau Desktop. The dashboard is interactive, allowing users to filter by industry and year to explore the data in detail.
